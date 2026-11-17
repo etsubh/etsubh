@@ -4,7 +4,7 @@ I'm a Computer Science student at Virginia Tech interested in software engineeri
 
 ## Selected Work
 
-### Moss Scout
+### [Moss Scout](https://github.com/etsubh/moss-scout)
 
 A Python-based sourcing tool for identifying fitness professionals who may be interested in opening independent studios.
 
@@ -13,10 +13,9 @@ A Python-based sourcing tool for identifying fitness professionals who may be in
 - **Key features:** Candidate sourcing, data enrichment, deduplication, scoring, and a Streamlit dashboard.
 - **Evidence:** [GitHub Repository](https://github.com/etsubh/moss-scout)
 - **Current limits:** The scoring system still needs validation against real-world outcomes.
-- **My contribution:** Built the sourcing pipeline and review dashboard using Python and Streamlit.
 - **Source credit:** Independently developed with assistance from Cursor AI.
 
-### Parcel Pulse
+### [ParcelPulse](https://parcel-pulse-gdg-2026.lovable.app/)
 
 A real-estate analytics platform that brings together housing and neighborhood data to make comparing locations easier.
 
