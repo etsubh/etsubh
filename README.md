@@ -9,9 +9,10 @@ I'm a Computer Science student at Virginia Tech interested in software engineeri
 A real-estate analytics platform that brings together housing and neighborhood data to make comparing locations easier.
 
 - **My contribution:** Built data integrations using Census, HUD, Zillow, and permit data across 25 U.S. markets, along with neighborhood scoring, dashboards, and geospatial visualizations.
-- **Evidence:** [Add link to your Parcel Pulse repository or project demo]
-- **Current limits:** [Describe a feature that's unfinished or a part of the project you haven't tested yet]
-- **Source credit:** Original project; add any external code, datasets, or libraries that require attribution.
+- **Key features:** Interactive neighborhood maps, development readiness scores, market dashboards, AI-generated insights, and rent and vacancy forecasting.
+- **Evidence:** [Parcel Pulse Website](https://parcel-pulse-gdg-2026.lovable.app/)
+- **Current limits:** The Development Readiness scores still need to be validated against real market outcomes. Forecasting accuracy also needs further evaluation using historical data.
+- **Source credit:** Developed collaboratively with Rijul T, Siddharth Ravi, and Barbaros Zorlu.
 
 ## What I'm Learning Next
 
