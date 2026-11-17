@@ -1,40 +1,26 @@
 # Etsub Habtewold
 
-I'm a Computer Science student at Virginia Tech interested in software engineering, cybersecurity, and cloud computing.
+I'm a Computer Science student at Virginia Tech interested in software engineering, cybersecurity, and cloud computing. I'm currently learning more about backend systems and how to build software that's reliable and secure.
 
-I like building things, figuring out how systems work behind the scenes, and finding better ways to solve problems. Lately, I've been especially interested in backend development and how security fits into the software we use every day.
-
-## A Little About Me
-
-I'm currently a Software Engineering Intern at NASA, where I work with Python, TypeScript, React, and FastAPI.
-
-Before that, I worked in cybersecurity at Triple Point Security, getting hands-on experience with AWS, Azure, and cloud security. I've also worked on full-stack applications, automation tools, and AI research.
-
-I enjoy getting to work on different parts of a project, from understanding the problem to building and testing a solution.
-
-## Projects & Research
+## Selected Work
 
 ### Parcel Pulse
-A real-estate analytics platform I built using Next.js, TypeScript, and TensorFlow.js. It brings together housing and neighborhood data from 25 U.S. markets to make comparing locations easier.
 
-### AI & Human-Computer Interaction Research
-Worked on Python-based AI tools for educational content and explored ways to make AI-powered interfaces more useful.
+A real-estate analytics platform that brings together housing and neighborhood data to make comparing locations easier.
 
-### Retrieval-Augmented Generation Research
-Explored how retrieval techniques can improve the accuracy and reliability of language models.
+- **My contribution:** Built data integrations using Census, HUD, Zillow, and permit data across 25 U.S. markets, along with neighborhood scoring, dashboards, and geospatial visualizations.
+- **Evidence:** [Add link to your Parcel Pulse repository or project demo]
+- **Current limits:** [Describe a feature that's unfinished or a part of the project you haven't tested yet]
+- **Source credit:** Original project; add any external code, datasets, or libraries that require attribution.
 
-## Tools I've Worked With
+## What I'm Learning Next
 
-**Languages:** Python, Java, JavaScript, TypeScript, SQL, C++
+I'm working on improving my backend development skills, particularly API design, authentication, and building applications that can handle real-world data.
 
-**Development:** React, Next.js, FastAPI, REST APIs, Git
+I plan to document my projects more clearly on GitHub, including what I built, how I tested it, and what I'd improve.
 
-**Cloud & Security:** AWS, Azure, Docker, Terraform, IAM, RBAC
+## Feedback or Collaboration
 
-## What's Next
+I'm interested in feedback on how I structure my projects, especially backend architecture and security.
 
-I'm always looking to learn more about building reliable software, especially when it comes to backend systems, cloud infrastructure, and security. I enjoy working with people who like asking questions, trying new approaches, and learning along the way.
-
-## Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/etsubh) | [Email](mailto:etsubhabtewld@gmail.com)
+You can reach me on [LinkedIn](https://www.linkedin.com/in/etsubh).
