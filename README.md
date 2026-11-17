@@ -34,3 +34,7 @@ I plan to document my projects more clearly on GitHub, including what I built, h
 I'm interested in feedback on how I structure my projects, especially backend architecture and security.
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/etsubh).
+
+## Acknowledgments
+
+My GitHub profile was developed using the [GitHub Profile Strategy Workshop](https://github.com/hanshisantos/github-profile-strategy-workshop) by Santos Martinez.
