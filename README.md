@@ -11,7 +11,6 @@ A Python-based sourcing tool for identifying fitness professionals who may be in
 - **Technologies:** Python, Streamlit, CSV
 - **My contribution:** Developed the sourcing pipeline and review dashboard with assistance from Cursor AI.
 - **Key features:** Candidate sourcing, data enrichment, deduplication, scoring, and a Streamlit dashboard.
-- **Evidence:** [GitHub Repository](https://github.com/etsubh/moss-scout)
 - **Current limits:** The scoring system still needs validation against real-world outcomes.
 - **Source credit:** Independently developed with assistance from Cursor AI.
 
@@ -21,7 +20,6 @@ A real-estate analytics platform that brings together housing and neighborhood d
 
 - **My contribution:** Built data integrations using Census, HUD, Zillow, and permit data across 25 U.S. markets, along with neighborhood scoring, dashboards, and geospatial visualizations.
 - **Key features:** Interactive neighborhood maps, development readiness scores, market dashboards, AI-generated insights, and rent and vacancy forecasting.
-- **Evidence:** [Parcel Pulse Website](https://parcel-pulse-gdg-2026.lovable.app/)
 - **Current limits:** The Development Readiness scores still need to be validated against real market outcomes. Forecasting accuracy also needs further evaluation using historical data.
 - **Source credit:** Developed collaboratively with Rijul T, Siddharth Ravi, and Barbaros Zorlu.
 
